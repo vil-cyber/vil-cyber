@@ -1,5 +1,5 @@
 ### I'm Vilas
-### Namaste 🙏 I'm Vilas:<br><br>**BCA Graduate | Java Full-Stack Developer | Rani Chennamma University**<br><br>- 🎓 Fresh BCA graduate from Rani Chennamma University with 79% aggregate<br>- 💻 Passionate about building robust backend systems with Java technologies<br>- 📚 Currently pursuing **Java Full-Stack Development** course at **Jspiders, Bangalore**<br>- 🌱 Mastering microservices architecture and J2EE<br>- 📫 Reach me: rathodvilas013@gmail.com | https://www.linkedin.com/in/vilas-rathod-657021299/ 
+### Namaste 🙏 I'm Vilas:<br><br>**BCA Graduate | Fresh BCA graduate | Rani Chennamma University**<br><br>- 🎓 Fresh BCA graduate from Rani Chennamma University with 79% aggregate<br>- 💻 Passionate about building robust backend systems with Java technologies<br>- 📚 Currently pursuing **Java Full-Stack Development** course at **Jspiders, Bangalore**<br>- 🌱 Mastering microservices architecture and J2EE<br>- 📫 Reach me: rathodvilas013@gmail.com | https://www.linkedin.com/in/vilas-rathod-657021299/ 
 
 
 ## 🌐 Socials:
